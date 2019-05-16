@@ -27,5 +27,38 @@ Los requerimientos de información para el sistema de gestión de la droguería 
 \subsection{Dominio}
 
 \subsection{Usuarios}
+\begin{longtable}[c]{|c|l|l|}
+\hline
+\textbf{Identificador} & \multicolumn{1}{c|}{\textbf{Descripción}} & \textbf{Prioridad} \\ \hline
+\endhead
+%
+\textbf{RU01} & \begin{tabular}[c]{@{}l@{}}El sistema deberá permitir el registro\\ de los medicamentos.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Alta\end{tabular} \\ \hline
+\textbf{RU02} & \begin{tabular}[c]{@{}l@{}}Se podrá generar la tabla de información\\ de forma automática.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Media\end{tabular} \\ \hline
+\textbf{RU03} & \begin{tabular}[c]{@{}l@{}}El sistema deberá notificar localmente los \\ medicamentos próximos a vencer.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Alta\end{tabular} \\ \hline
+\textbf{RU04} & \begin{tabular}[c]{@{}l@{}}El sistema podrá alertar la necesidad\\ de reabastecer medicamentos.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Media\end{tabular} \\ \hline
+\textbf{RU05} & \begin{tabular}[c]{@{}l@{}}El sistema permitirá la actualización de información\\ de cantidades y fecha de vencimiento de cada medicamento.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Alta\end{tabular} \\ \hline
+\textbf{RU06} & \begin{tabular}[c]{@{}l@{}}Facilidad de uso: El sistema se diseñará de tal\\ forma que permita al usuario una navegación\\ intuitiva.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Alta\end{tabular} \\ \hline
+\textbf{RU07} & \begin{tabular}[c]{@{}l@{}}Seguridad: Las actualizaciones de información\\ solo podrán ser efectuadas por el\\ encargado en turno.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Media-Alta\end{tabular} \\ \hline
+\textbf{RU08} & \begin{tabular}[c]{@{}l@{}}Portabilidad: Se podrá acceder al sistema desde\\ cualquier sistema operativo compatible a la base de \\ datos, encontrada en un disco duro externo.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Alta\end{tabular} \\ \hline
 
 \subsection{Sistema}
+
+\begin{longtable}[c]{|l|l|l|l|}
+\captionsetup{justification=centering}
+\hline
+\textbf{Identificador} & \multicolumn{1}{c|}{\textbf{Nombre}} & \textbf{Deriva} & \multicolumn{1}{c|}{\textbf{Descripción}} \\ \hline
+\endhead
+%
+\textbf{RS01} & \begin{tabular}[c]{@{}l@{}}Registro de Medicamentos.\end{tabular} & RU01 & \begin{tabular}[c]{@{}l@{}}Al registrar un medicamento el sistema \\ presentará al usuario un formulario solicitando\\ los siguientes campos:\\ Denominación Comercial\\ Denominación Científica\\ Composición \\  Fecha de Vencimiento\\  Modo de Empleo\\ Tipo Prescripción \\ Empresa \\ Clase\\ Para qué sirve \\ Cantidad Disponible \end{tabular} \\ \hline
+
+\textbf{RS02} & \begin{tabular}[c]{@{}l@{}}Tabla de información\end{tabular} & RU02 & \begin{tabular}[c]{@{}l@{}}Al solicitar la generación de la información de \\ un medicamento, el sistema deberá mostrar\\ la misma tabla encontrada en la base de\\ datos con todos los campos del medicamento\\ solicitado.\end{tabular} \\ \hline
+
+\textbf{RS03} & \begin{tabular}[c]{@{}l@{}}Notificaciones\end{tabular} & RU03 & \begin{tabular}[c]{@{}l@{}}El sistema deberá presentar el nombre \\ comercial y científico del o los medicamentos\\ próximos a vencer, junto a la fecha de\\ dvencimiento y la cantidad de los mismos que\\ tengan esa fecha registrada.\end{tabular} \\ \hline
+
+\textbf{RS04} & \begin{tabular}[c]{@{}l@{}}Abastecimiento\end{tabular} & RU04 & \begin{tabular}[c]{@{}l@{}}Al momento de recibir un cambio de la \\ cantidad de medicamentos menor a 3, el \\ sistema mostrará el nombre comercial y \\ científico del o los medicamentos informando\\ al usuario que debe realizar un pedido de ese \\ medicamento. \end{tabular} \\ \hline
+
+\textbf{RS05} & \begin{tabular}[c]{@{}l@{}}Actualización de Información\end{tabular} & RU05 & \begin{tabular}[c]{@{}l@{}}El sistema permitirá al usuario cambiar los \\ campos de cantidades y fecha de vencimiento \\ de los medicamentos e informará el cambio \\ exitoso mediante una alerta informativa al\\ mismo una vez se haya actualizado la \\ información en la base de datos. \end{tabular} \\ \hline
+
+\textbf{RS06} & \begin{tabular}[c]{@{}l@{}}Interfaz\end{tabular} & RU06 & \begin{tabular}[c]{@{}l@{}}El sistema debe contar con una distribución \\ “inteligente” de las secciones, botones y \\ herramientas de tal forma que se cree una \\ experiencia de navegación en el sistema \\ satisfactoria.\end{tabular} \\ \hline
+
+\textbf{RS07} & \begin{tabular}[c]{@{}l@{}}Seguridad\end{tabular} & RU07 & \begin{tabular}[c]{@{}l@{}}El sistema debe contar con una cuenta de  \\ usuario para el empleado encargado de la \\ gestión de inventario, con el fin de asegurar\\ que los cambios en los campos que se\\ puedan solo puedan realizarse por el\\ encargado en turno. \end{tabular} \\ \hline
