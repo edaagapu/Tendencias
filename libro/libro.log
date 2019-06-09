@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  15 MAY 2019 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  9 JUN 2019 00:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -427,24 +427,28 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
 (./capitulo1/capitulo.aux) (./capitulo2/capitulo.aux) (./capitulo3/capitulo.aux
-) (./capitulo4/capitulo.aux) (./capitulo5/capitulo.aux)
-(./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux))
+) (./capitulo4/capitulo.aux
+
+LaTeX Warning: Label `teamDevelop' multiply defined.
+
+) (./capitulo5/capitulo.aux) (./capitulo6/capitulo.aux)
+(./capitulo7/capitulo.aux))
 \openout1 = `libro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -517,9 +521,9 @@ e
 ))
 \c@lstlisting=\count105
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
+(Font)              <14.4> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 16.
 
 [1
 
@@ -540,8 +544,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `libro.toc'.
 
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
  [4] [5
 
 ] [6]
@@ -549,36 +553,83 @@ LaTeX Info: Redefining \% on input line 17.
 
  (./capitulo1/capitulo.tex
 Cap\'{\i }tulo 1.
-) [7
+[7
 
 
 ]
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
 
 Overfull \hbox (24.72968pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 8 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  DEFINICI[]ON EMPRESA DE DESAR
 ROLLO DE SOFTWARE
  []
 
-[8
+[8]
+<capitulo1/img/EstOrgSofBORe.PNG, id=32, 475.02469pt x 288.3272pt>
+File: capitulo1/img/EstOrgSofBORe.PNG Graphic file (type png)
+<use capitulo1/img/EstOrgSofBORe.PNG>
+Package pdftex.def Info: capitulo1/img/EstOrgSofBORe.PNG  used on input line 59
+.
+(pdftex.def)             Requested size: 467.99881pt x 284.07654pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+<capitulo1/img/ProcesosSofBORe.PNG, id=34, 472.76625pt x 390.70969pt>
+File: capitulo1/img/ProcesosSofBORe.PNG Graphic file (type png)
+<use capitulo1/img/ProcesosSofBORe.PNG>
+Package pdftex.def Info: capitulo1/img/ProcesosSofBORe.PNG  used on input line 
+67.
+(pdftex.def)             Requested size: 390.0pt x 322.31561pt.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+[9 <./capitulo1/img/EstOrgSofBORe.PNG>])
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+
+Overfull \hbox (30.60461pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 10 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  DEFINICI[]ON EMPRESA DE DESA
+RROLLO DE SOFTWARE
+ []
+
+[10 <./capitulo1/img/ProcesosSofBORe.PNG>] [11
 
 
-] [9] [10]
+] [12]
 \openout2 = `capitulo2/capitulo.aux'.
 
  (./capitulo2/capitulo.tex
 Cap\'{\i }tulo 2.
-) [11
+[13
 
 
 ]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [14]
+<capitulo2/img/OrgRuzvel.PNG, id=56, 432.11438pt x 365.11406pt>
+File: capitulo2/img/OrgRuzvel.PNG Graphic file (type png)
+<use capitulo2/img/OrgRuzvel.PNG>
+Package pdftex.def Info: capitulo2/img/OrgRuzvel.PNG  used on input line 41.
+(pdftex.def)             Requested size: 390.0pt x 329.54114pt.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [15 <./capitulo2/img/OrgRuzvel.PNG>]
+<capitulo2/img/ProcesosRuzvel.PNG, id=61, 478.78876pt x 313.9228pt>
+File: capitulo2/img/ProcesosRuzvel.PNG Graphic file (type png)
+<use capitulo2/img/ProcesosRuzvel.PNG>
+Package pdftex.def Info: capitulo2/img/ProcesosRuzvel.PNG  used on input line 5
+0.
+(pdftex.def)             Requested size: 390.0pt x 255.7083pt.
+)
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [12
+ [16 <./capitulo2/img/ProcesosRuzvel.PNG>] [17
 
 
-] [13] [14]
+] [18]
 \openout2 = `capitulo3/capitulo.aux'.
 
  (./capitulo3/capitulo.tex
@@ -588,46 +639,152 @@ Overfull \hbox (10.06778pt too wide) in paragraph at lines 2--2
 []\OT1/cmr/bx/n/17.28 Identificaci^^Son y Jus-ti-fi-ca-ci^^Son del []Area fun-
  []
 
-) [15
+
+Underfull \vbox (badness 3977) has occurred while \output is active []
+
+ [19
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [20]
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+
+[21]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [22]
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [23]
+Overfull \hbox (34.80202pt too wide) in paragraph at lines 84--97
+ [] 
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 112--112
+[]\OT1/cmr/m/n/12 Tabla de in-for-
+ []
+
+
+Overfull \hbox (55.87482pt too wide) in paragraph at lines 105--119
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 128.76645pt on input line 122.
+
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+[24]
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [25]
 \openout2 = `capitulo4/capitulo.aux'.
 
- (./capitulo4/capitulo.tex)
+ (./capitulo4/capitulo.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [26
+
+
+
+]
+Cap\'{\i }tulo 4.
+
+Overfull \hbox (44.33858pt too wide) in paragraph at lines 19--25
+ [] 
+ []
+
+
+Underfull \vbox (badness 2351) has occurred while \output is active []
+
+ [27]
+Overfull \hbox (32.33856pt too wide) in paragraph at lines 35--43
+ [] 
+ []
+
+
+Overfull \hbox (32.33856pt too wide) in paragraph at lines 50--58
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+[28])
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [29]
 \openout2 = `capitulo5/capitulo.aux'.
 
- (./capitulo5/capitulo.tex)
+ (./capitulo5/capitulo.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [30
+
+
+
+]
+Cap\'{\i }tulo 5.
+) [31]
 \openout2 = `capitulo6/capitulo.aux'.
 
+ (./capitulo6/capitulo.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [32
 
-(./capitulo6/capitulo.tex)
+
+
+]
+Cap\'{\i }tulo 6.
+) [33]
 \openout2 = `capitulo7/capitulo.aux'.
 
- (./capitulo7/capitulo.tex) (./libro.aux
+ (./capitulo7/capitulo.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [34
+
+
+
+]
+Cap\'{\i }tulo 7.
+) [35] (./libro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
+ (./capitulo1/capitulo.aux) (./capitulo2/capitulo.aux)
+(./capitulo3/capitulo.aux) (./capitulo4/capitulo.aux) (./capitulo5/capitulo.aux
+) (./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux))
 
-(./capitulo1/capitulo.aux) (./capitulo2/capitulo.aux) (./capitulo3/capitulo.aux
-) (./capitulo4/capitulo.aux) (./capitulo5/capitulo.aux)
-(./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux)) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4116 strings out of 492982
- 56033 string characters out of 6134896
- 126876 words of memory out of 5000000
- 7590 multiletter control sequences out of 15000+600000
- 9766 words of font info for 34 fonts, out of 8000000 for 9000
+ 4162 strings out of 492982
+ 56935 string characters out of 6134896
+ 135030 words of memory out of 5000000
+ 7628 multiletter control sequences out of 15000+600000
+ 10113 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,32p,272b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsl12.pfb>
-Output written on libro.pdf (15 pages, 63353 bytes).
+ 41i,12n,32p,1151b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on libro.pdf (35 pages, 270456 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

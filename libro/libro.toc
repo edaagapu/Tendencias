@@ -2,33 +2,44 @@
 \contentsline {part}{I\hspace {1em}Estructura Empresa de Dise\IeC {\~n}o de Software}{5}
 \contentsline {chapter}{\numberline {1}Definici\'on Empresa de Desarrollo de Software}{7}
 \contentsline {section}{\numberline {1.1}Constituci\'on de la Empresa}{7}
-\contentsline {subsection}{\numberline {1.1.1}Raz\'on Social}{7}
-\contentsline {subsection}{\numberline {1.1.2}Misi\'on}{7}
-\contentsline {subsection}{\numberline {1.1.3}Visi\'on}{7}
-\contentsline {subsection}{\numberline {1.1.4}Objetivos}{7}
-\contentsline {subsection}{\numberline {1.1.5}Metas}{7}
-\contentsline {subsection}{\numberline {1.1.6}Estrategias}{7}
-\contentsline {subsection}{\numberline {1.1.7}Estructura Organizacional}{7}
-\contentsline {subsection}{\numberline {1.1.8}Estructura Funcional}{7}
-\contentsline {part}{II\hspace {1em}Estructura Empresa del Cliente}{9}
-\contentsline {chapter}{\numberline {2}Estudio General de la Organizaci\'on}{11}
-\contentsline {section}{\numberline {2.1}Constituci\'on de la Empresa}{11}
-\contentsline {subsection}{\numberline {2.1.1}Raz\'on Social}{11}
-\contentsline {subsection}{\numberline {2.1.2}Misi\'on}{11}
-\contentsline {subsection}{\numberline {2.1.3}Visi\'on}{11}
-\contentsline {subsection}{\numberline {2.1.4}Objetivos}{11}
-\contentsline {subsection}{\numberline {2.1.5}Metas}{11}
-\contentsline {subsection}{\numberline {2.1.6}Estrategias}{11}
-\contentsline {subsection}{\numberline {2.1.7}Estructura Organizacional}{11}
-\contentsline {subsection}{\numberline {2.1.8}Estructura Funcional}{11}
-\contentsline {part}{III\hspace {1em}Proyecto de Software}{13}
-\contentsline {chapter}{\numberline {3}Requerimientos}{15}
-\contentsline {section}{\numberline {3.1}Identificaci\'on y Justificaci\'on del \'Area funcional}{15}
-\contentsline {section}{\numberline {3.2}Caracterizaci\'on de los Procesos y Actividades}{15}
-\contentsline {section}{\numberline {3.3}An\'alisis de Requerimientos de Informaci\'on}{15}
-\contentsline {section}{\numberline {3.4}Obtenci\'on de Requerimientos}{15}
-\contentsline {subsection}{\numberline {3.4.1}Funcionales}{15}
-\contentsline {subsection}{\numberline {3.4.2}No Funcionales}{15}
-\contentsline {subsection}{\numberline {3.4.3}Dominio}{15}
-\contentsline {subsection}{\numberline {3.4.4}Usuarios}{15}
-\contentsline {subsection}{\numberline {3.4.5}Sistema}{15}
+\contentsline {section}{\numberline {1.2}Misi\'on}{7}
+\contentsline {section}{\numberline {1.3}Visi\'on}{8}
+\contentsline {section}{\numberline {1.4}Objetivos}{8}
+\contentsline {section}{\numberline {1.5}Metas}{8}
+\contentsline {section}{\numberline {1.6}Pol\'iticas}{8}
+\contentsline {section}{\numberline {1.7}Estrategias}{9}
+\contentsline {section}{\numberline {1.8}Estructura Organizacional}{9}
+\contentsline {section}{\numberline {1.9}Estructura Funcional}{10}
+\contentsline {part}{II\hspace {1em}Estructura Empresa del Cliente}{11}
+\contentsline {chapter}{\numberline {2}Estudio General de la Organizaci\'on}{13}
+\contentsline {section}{\numberline {2.1}Constituci\'on de la Empresa}{13}
+\contentsline {section}{\numberline {2.2}Misi\'on}{13}
+\contentsline {section}{\numberline {2.3}Visi\'on}{13}
+\contentsline {section}{\numberline {2.4}Pol\'itica}{14}
+\contentsline {section}{\numberline {2.5}Pol\'itica de Calidad}{14}
+\contentsline {section}{\numberline {2.6}Valores Organizacionales}{14}
+\contentsline {section}{\numberline {2.7}Estructura Organizacional}{15}
+\contentsline {section}{\numberline {2.8}Estructura Funcional}{16}
+\contentsline {part}{III\hspace {1em}Proyecto de Software}{17}
+\contentsline {chapter}{\numberline {3}Requerimientos}{19}
+\contentsline {section}{\numberline {3.1}Identificaci\'on y Justificaci\'on del \'Area funcional}{19}
+\contentsline {section}{\numberline {3.2}Caracterizaci\'on de los Procesos y Actividades}{20}
+\contentsline {section}{\numberline {3.3}An\'alisis de Requerimientos de Informaci\'on}{20}
+\contentsline {section}{\numberline {3.4}Obtenci\'on de Requerimientos}{21}
+\contentsline {subsection}{\numberline {3.4.1}Funcionales}{21}
+\contentsline {subsection}{\numberline {3.4.2}No Funcionales}{22}
+\contentsline {subsection}{\numberline {3.4.3}Dominio}{23}
+\contentsline {subsection}{\numberline {3.4.4}Usuario}{24}
+\contentsline {subsection}{\numberline {3.4.5}Sistema}{24}
+\contentsline {chapter}{\numberline {4}Planificaci\'on del Proyecto de Software}{27}
+\contentsline {section}{\numberline {4.1}Alcances Proyecto de Software}{27}
+\contentsline {section}{\numberline {4.2}Objetivos Proyecto de Software}{27}
+\contentsline {section}{\numberline {4.3}Metodolog\'ia Proyecto de Software}{27}
+\contentsline {section}{\numberline {4.4}Determinaci\'on de Recursos del Proyecto de Software}{28}
+\contentsline {subsection}{\numberline {4.4.1}Recursos Humanos}{28}
+\contentsline {subsection}{\numberline {4.4.2}Recursos Tecnologicos}{28}
+\contentsline {subsection}{\numberline {4.4.3}Recursos Financieros}{29}
+\contentsline {section}{\numberline {4.5}Cronograma de Actividades}{29}
+\contentsline {chapter}{\numberline {5}Dise\IeC {\~n}o del Proyecto de Software}{31}
+\contentsline {chapter}{\numberline {6}Desarrollo del Proyecto de Software}{33}
+\contentsline {chapter}{\numberline {7}Propuesta de Plan de Mejoramiento del Software}{35}
