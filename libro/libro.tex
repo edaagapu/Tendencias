@@ -5,14 +5,28 @@
 \usepackage{graphicx}
 \usepackage{listings}
 \usepackage{color}
+\usepackage{eso-pic}
+
 %-------PORTADA----------
 \title{Proyecto Final - Tendencias Avanzadas de Ingeniería de Software}
 \author{Edwin Aarón Garcia Pulido \\
 20161020051 \\\\ Brian Orlando Rodríguez Velandia \\
 20151020014}
 
+%----COMANDOS------------
+\newcommand\BackgroundPic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			\includegraphics[width=\paperwidth,height=\paperheight,
+			keepaspectratio]{img/logo.png}%
+			\vfill
+}}}
+
 %-------CUERPO-----------
 \begin{document}
+\AddToShipoutPicture{\BackgroundPic}	
 \maketitle
 \tableofcontents
 
