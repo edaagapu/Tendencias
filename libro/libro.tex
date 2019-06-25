@@ -6,6 +6,7 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage{eso-pic}
+\usepackage{fancyhdr}
 
 %-------PORTADA----------
 \title{Proyecto Final - Tendencias Avanzadas de Ingeniería de Software}
@@ -26,6 +27,11 @@
 
 %-------CUERPO-----------
 \begin{document}
+\fancypagestyle{plain}{
+\fancyfoot[L]{Brian Rodríguez-3004447347}
+\fancyfoot[R]{Edwin Aaron-3008075718}
+\renewcommand{\footrulewidth}{0.5pt}
+}
 \AddToShipoutPicture{\BackgroundPic}	
 \maketitle
 \tableofcontents
