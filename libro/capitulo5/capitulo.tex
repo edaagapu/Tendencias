@@ -26,6 +26,10 @@ conteo de existencias, cada uno asociado al componente del gestor de la base de 
 123
 \subsection{ Diagramas de Comportamiento}
 \subsubsection{ Diagrama de Estados}
+Un diagrama de estados, en ocasiones conocido como diagrama de máquina de estados, es un tipo de diagrama de comportamiento en el Lenguaje Unificado de Modelado (UML) que muestra transiciones entre diversos objetos.
+\newline
+Cada diagrama de estados generalmente empieza con un círculo oscuro que indica el estado inicial y termina con un círculo de contorno blanco que denota el estado final. Estos representan principalmente estado y transiciones. Los estados se representan con rectángulos de esquinas redondeadas que se etiquetan con el nombre del estado. Las transiciones se marcan con flechas que fluyen de un estado a otro, mostrando cómo cambian los estados.
+\newpage
 
 \begin{center}
     \begin{figure}[htb]
@@ -36,6 +40,11 @@ conteo de existencias, cada uno asociado al componente del gestor de la base de 
     \end{figure}
 \end{center}
 \subsubsection{ Diagrama de Actividades}
+
+El Diagrama de Actividad es un diagrama de flujo del proceso multi-propósito que se usa para modelar el comportamiento del sistema. Los diagramas de actividad se pueden usar para modelar un Caso de Uso, o una clase, o un método complicado.
+\newline
+Un diagrama de actividad es parecido a un diagrama de flujo; la diferencia clave es que los diagramas de actividad pueden mostrar procesado paralelo (parallel processing). Esto es importante cuando se usan diagramas de actividad para modelar procesos 'bussiness' algunos de los cuales pueden actuar en paralelo, y para modelar varios hilos en los programas concurrentes.
+
 \begin{center}
     \begin{figure}[htb]
         \centering
@@ -51,7 +60,16 @@ conteo de existencias, cada uno asociado al componente del gestor de la base de 
 456
 \subsection{ Diagramas de Implementación}
 \subsubsection{ Diagrama de Componentes}
-789
+\begin{center}
+    \begin{figure}[htb]
+        \centering
+        \includegraphics[width = 1.0\textwidth] {libro/capitulo5/img/Componentes.PNG}
+        \caption{Diagrama de Componentes - Autor\'ia propia}
+        \label{fig:my_label}
+    \end{figure}
+\end{center}
 \subsubsection{Diagrama de Despliegue}
 000
 \section{PSM: Modelo Específico de Plataforma}
+
+El aplicativo tratado en el presente documento ser\'a desarrollado en el lenguaje JAVA, con el IDE Eclipse y en la persistencia se usar\'a Postgress utilizando PGAdmin III para la gesti\'on de la base de datos.
