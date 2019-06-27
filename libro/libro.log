@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  27 JUN 2019 09:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  27 JUN 2019 10:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -923,13 +923,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<capitulo4/img/Gantt.pdf, id=114, 2156.69043pt x 665.76604pt>
+<capitulo4/img/PROBE.pdf, id=114, 1479.48645pt x 625.90373pt>
+File: capitulo4/img/PROBE.pdf Graphic file (type pdf)
+<use capitulo4/img/PROBE.pdf>
+Package pdftex.def Info: capitulo4/img/PROBE.pdf  used on input line 101.
+(pdftex.def)             Requested size: 467.99881pt x 197.98206pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+
+Overfull \hbox (25.07141pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 4.4.  DETERMINACI[]ON DE RECURSOS DEL PROYECTO DE SOFTWARE \OT
+1/cmr/m/n/12 31
+ []
+
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 104.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+[31 <./capitulo4/img/PROBE.pdf>]
+<capitulo4/img/Gantt.pdf, id=130, 2156.69043pt x 665.76604pt>
 File: capitulo4/img/Gantt.pdf Graphic file (type pdf)
 <use capitulo4/img/Gantt.pdf>
-Package pdftex.def Info: capitulo4/img/Gantt.pdf  used on input line 104.
+Package pdftex.def Info: capitulo4/img/Gantt.pdf  used on input line 108.
 (pdftex.def)             Requested size: 467.99881pt x 144.4677pt.
 
-Overfull \hbox (77.99881pt too wide) in paragraph at lines 104--105
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 108--109
  [][] 
  []
 
@@ -940,21 +963,10 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [31 <./capitulo4/img/Gantt.pdf>]
+ [32 <./capitulo4/img/Gantt.pdf>]
 \openout2 = `capitulo5/capitulo.aux'.
 
  (./capitulo5/capitulo.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-File: img/logo.png Graphic file (type png)
-<use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 1.
-(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [32
-
-
-
-]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (12.92976pt too wide) in paragraph at lines 3--3
@@ -967,8 +979,12 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 9.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
-[33]
-<capitulo5/img/CasosUso.png, id=131, 504.6855pt x 383.031pt>
+[33
+
+
+
+]
+<capitulo5/img/CasosUso.png, id=143, 504.6855pt x 383.031pt>
 File: capitulo5/img/CasosUso.png Graphic file (type png)
 <use capitulo5/img/CasosUso.png>
 Package pdftex.def Info: capitulo5/img/CasosUso.png  used on input line 19.
@@ -987,12 +1003,12 @@ File: img/logo.png Graphic file (type png)
 Package pdftex.def Info: img/logo.png  used on input line 32.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [35]
-<capitulo5/img/Estados.png, id=139, 498.663pt x 343.2825pt>
+<capitulo5/img/Estados.png, id=151, 498.663pt x 343.2825pt>
 File: capitulo5/img/Estados.png Graphic file (type png)
 <use capitulo5/img/Estados.png>
 Package pdftex.def Info: capitulo5/img/Estados.png  used on input line 37.
 (pdftex.def)             Requested size: 390.0pt x 268.47687pt.
-<capitulo5/img/Actividades.png, id=140, 502.2765pt x 386.6445pt>
+<capitulo5/img/Actividades.png, id=152, 502.2765pt x 386.6445pt>
 File: capitulo5/img/Actividades.png Graphic file (type png)
 <use capitulo5/img/Actividades.png>
 Package pdftex.def Info: capitulo5/img/Actividades.png  used on input line 50.
@@ -1004,7 +1020,7 @@ File: img/logo.png Graphic file (type png)
 Package pdftex.def Info: img/logo.png  used on input line 52.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [36 <./capitulo5/img/Estados.png>]
-<capitulo5/img/Componentes.png, id=145, 508.90125pt x 356.83313pt>
+<capitulo5/img/Componentes.png, id=157, 508.90125pt x 356.83313pt>
 File: capitulo5/img/Componentes.png Graphic file (type png)
 <use capitulo5/img/Componentes.png>
 Package pdftex.def Info: capitulo5/img/Componentes.png  used on input line 64.
@@ -1082,10 +1098,10 @@ LaTeX Info: Redefining \% on input line 6.
 (./capitulo3/capitulo.aux) (./capitulo4/capitulo.aux) (./capitulo5/capitulo.aux
 ) (./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux)) ) 
 Here is how much of TeX's memory you used:
- 4504 strings out of 492982
- 62454 string characters out of 6134896
+ 4509 strings out of 492982
+ 62598 string characters out of 6134896
  140975 words of memory out of 5000000
- 7947 multiletter control sequences out of 15000+600000
+ 7951 multiletter control sequences out of 15000+600000
  10113 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,43p,1151b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1095,10 +1111,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on libro.pdf (43 pages, 501704 bytes).
+Output written on libro.pdf (43 pages, 526683 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 204 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
