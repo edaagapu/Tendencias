@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  9 JUN 2019 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  27 JUN 2019 10:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -437,7 +437,20 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-))) (./libro.aux
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+) (./libro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
@@ -446,20 +459,20 @@ LaTeX Info: Redefining \% on input line 6.
 (./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux))
 \openout1 = `libro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -523,13 +536,13 @@ e
 \c@lstlisting=\count105
 \AtBeginShipoutBox=\box29
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 30.
+(Font)              <14.4> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 36.
 <img/logo.png, id=1, 597.73312pt x 845.40843pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 30.
+Package pdftex.def Info: img/logo.png  used on input line 36.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 
 [1
@@ -538,7 +551,7 @@ Package pdftex.def Info: img/logo.png  used on input line 30.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logo.png>]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 31.
+Package pdftex.def Info: img/logo.png  used on input line 37.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 
 [2
@@ -552,37 +565,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.71667pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 24.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [3])
+[3])
 \tf@toc=\write3
 \openout3 = `libro.toc'.
 
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 33.
+Package pdftex.def Info: img/logo.png  used on input line 39.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [4]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 33.
+Package pdftex.def Info: img/logo.png  used on input line 39.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [5
 
 ]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 33.
+Package pdftex.def Info: img/logo.png  used on input line 39.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [6]
 \openout2 = `capitulo1/capitulo.aux'.
 
  (./capitulo1/capitulo.tex
 Cap\'{\i }tulo 1.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+
+Package Fancyhdr Warning: \headheight is too small (15.71667pt): 
+ Make it at least 30.21667pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 19.
@@ -628,8 +660,8 @@ File: img/logo.png Graphic file (type png)
 Package pdftex.def Info: img/logo.png  used on input line 69.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 [9 <./capitulo1/img/EstOrgSofBORe.PNG>])
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
 
 Overfull \hbox (30.60461pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 10 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  DEFINICI[]ON EMPRESA DE DESA
@@ -638,12 +670,12 @@ RROLLO DE SOFTWARE
 
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 34.
+Package pdftex.def Info: img/logo.png  used on input line 40.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 [10 <./capitulo1/img/ProcesosSofBORe.PNG>]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 36.
+Package pdftex.def Info: img/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [11
 
@@ -651,13 +683,15 @@ Package pdftex.def Info: img/logo.png  used on input line 36.
 ]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 36.
+Package pdftex.def Info: img/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [12]
 \openout2 = `capitulo2/capitulo.aux'.
 
  (./capitulo2/capitulo.tex
 Cap\'{\i }tulo 2.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 14.
@@ -692,16 +726,16 @@ Package pdftex.def Info: capitulo2/img/ProcesosRuzvel.PNG  used on input line 5
 0.
 (pdftex.def)             Requested size: 390.0pt x 255.7083pt.
 )
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 37.
+Package pdftex.def Info: img/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [16 <./capitulo2/img/ProcesosRuzvel.PNG>]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 39.
+Package pdftex.def Info: img/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [17
 
@@ -709,7 +743,7 @@ Package pdftex.def Info: img/logo.png  used on input line 39.
 ]
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 39.
+Package pdftex.def Info: img/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [18]
 \openout2 = `capitulo3/capitulo.aux'.
@@ -724,6 +758,8 @@ Overfull \hbox (10.06778pt too wide) in paragraph at lines 2--2
 
 Underfull \vbox (badness 3977) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 13.
@@ -734,68 +770,68 @@ Package pdftex.def Info: img/logo.png  used on input line 13.
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 40.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [20]
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [20]
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
-File: img/logo.png Graphic file (type png)
-<use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 42.
-(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 
 [21]
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 60.
+Package pdftex.def Info: img/logo.png  used on input line 59.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [22]
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 79.
+Package pdftex.def Info: img/logo.png  used on input line 78.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [23]
-Overfull \hbox (34.80202pt too wide) in paragraph at lines 84--97
+Overfull \hbox (34.80202pt too wide) in paragraph at lines 83--96
  [] 
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 112--112
+Underfull \hbox (badness 1205) in paragraph at lines 111--111
 []\OT1/cmr/m/n/12 Tabla de in-for-
  []
 
 
-Overfull \hbox (55.87482pt too wide) in paragraph at lines 105--119
+Overfull \hbox (55.87482pt too wide) in paragraph at lines 104--118
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 128.76645pt on input line 122.
+LaTeX Warning: Float too large for page by 128.76645pt on input line 121.
 
 )
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 40.
+Package pdftex.def Info: img/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
 [24]
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 40.
+Package pdftex.def Info: img/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
  [25]
 \openout2 = `capitulo4/capitulo.aux'.
@@ -813,63 +849,203 @@ Package pdftex.def Info: img/logo.png  used on input line 1.
 
 ]
 Cap\'{\i }tulo 4.
-
-Overfull \hbox (44.33858pt too wide) in paragraph at lines 19--25
- [] 
- []
-
-
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 28.
+Package pdftex.def Info: img/logo.png  used on input line 9.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [27]
-Overfull \hbox (32.33856pt too wide) in paragraph at lines 35--43
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+<./capitulo4/img/modIncremental.png, id=104, 572.1375pt x 284.56313pt>
+File: ./capitulo4/img/modIncremental.png Graphic file (type png)
+<use ./capitulo4/img/modIncremental.png>
+Package pdftex.def Info: ./capitulo4/img/modIncremental.png  used on input line
+ 26.
+(pdftex.def)             Requested size: 312.00119pt x 155.18152pt.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 30.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+[28]
+Overfull \hbox (44.33858pt too wide) in paragraph at lines 36--42
  [] 
  []
 
 
-Overfull \hbox (32.33856pt too wide) in paragraph at lines 50--58
+Overfull \hbox (32.33856pt too wide) in paragraph at lines 52--60
  [] 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 64.
 LaTeX Info: Redefining \% on input line 64.
+
+Overfull \hbox (25.07141pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 4.4.  DETERMINACI[]ON DE RECURSOS DEL PROYECTO DE SOFTWARE \OT
+1/cmr/m/n/12 29
+ []
+
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 64.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
-[28])
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
+[29 <./capitulo4/img/modIncremental.png>]
+Overfull \hbox (32.33856pt too wide) in paragraph at lines 68--76
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 41.
+Package pdftex.def Info: img/logo.png  used on input line 94.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [29]
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+<capitulo4/img/PROBE.pdf, id=114, 1479.48645pt x 625.90373pt>
+File: capitulo4/img/PROBE.pdf Graphic file (type pdf)
+<use capitulo4/img/PROBE.pdf>
+Package pdftex.def Info: capitulo4/img/PROBE.pdf  used on input line 101.
+(pdftex.def)             Requested size: 467.99881pt x 197.98206pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+
+Overfull \hbox (25.07141pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 4.4.  DETERMINACI[]ON DE RECURSOS DEL PROYECTO DE SOFTWARE \OT
+1/cmr/m/n/12 31
+ []
+
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 104.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+[31 <./capitulo4/img/PROBE.pdf>]
+<capitulo4/img/Gantt.pdf, id=130, 2156.69043pt x 665.76604pt>
+File: capitulo4/img/Gantt.pdf Graphic file (type pdf)
+<use capitulo4/img/Gantt.pdf>
+Package pdftex.def Info: capitulo4/img/Gantt.pdf  used on input line 108.
+(pdftex.def)             Requested size: 467.99881pt x 144.4677pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 108--109
+ [][] 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 47.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [32 <./capitulo4/img/Gantt.pdf>]
 \openout2 = `capitulo5/capitulo.aux'.
 
  (./capitulo5/capitulo.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+Cap\'{\i }tulo 5.
+
+Overfull \hbox (12.92976pt too wide) in paragraph at lines 3--3
+[]\OT1/cmr/bx/n/17.28 CIM: Mo-de-lo In-de-pen-dien-te de la Compu-
+ []
+
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 1.
+Package pdftex.def Info: img/logo.png  used on input line 9.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [30
+[33
 
 
 
 ]
-Cap\'{\i }tulo 5.
-)
+<capitulo5/img/CasosUso.png, id=143, 504.6855pt x 383.031pt>
+File: capitulo5/img/CasosUso.png Graphic file (type png)
+<use capitulo5/img/CasosUso.png>
+Package pdftex.def Info: capitulo5/img/CasosUso.png  used on input line 19.
+(pdftex.def)             Requested size: 390.0pt x 296.00433pt.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 42.
+Package pdftex.def Info: img/logo.png  used on input line 27.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [31]
+ [34 <./capitulo5/img/CasosUso.png>]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 32.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [35]
+<capitulo5/img/Estados.png, id=151, 498.663pt x 343.2825pt>
+File: capitulo5/img/Estados.png Graphic file (type png)
+<use capitulo5/img/Estados.png>
+Package pdftex.def Info: capitulo5/img/Estados.png  used on input line 37.
+(pdftex.def)             Requested size: 390.0pt x 268.47687pt.
+<capitulo5/img/Actividades.png, id=152, 502.2765pt x 386.6445pt>
+File: capitulo5/img/Actividades.png Graphic file (type png)
+<use capitulo5/img/Actividades.png>
+Package pdftex.def Info: capitulo5/img/Actividades.png  used on input line 50.
+(pdftex.def)             Requested size: 390.0pt x 300.23045pt.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 52.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [36 <./capitulo5/img/Estados.png>]
+<capitulo5/img/Componentes.png, id=157, 508.90125pt x 356.83313pt>
+File: capitulo5/img/Componentes.png Graphic file (type png)
+<use capitulo5/img/Componentes.png>
+Package pdftex.def Info: capitulo5/img/Componentes.png  used on input line 64.
+(pdftex.def)             Requested size: 390.0pt x 273.47192pt.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 67.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [37 <./capitulo5/img/Actividades.png>])
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 48.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [38 <./capitulo5/img/Componentes.png>]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 48.
+(pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
+ [39]
 \openout2 = `capitulo6/capitulo.aux'.
 
  (./capitulo6/capitulo.tex
@@ -879,18 +1055,20 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [32
+ [40
 
 
 
 ]
 Cap\'{\i }tulo 6.
 )
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 43.
+Package pdftex.def Info: img/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [33]
+ [41]
 \openout2 = `capitulo7/capitulo.aux'.
 
  (./capitulo7/capitulo.tex
@@ -900,41 +1078,43 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [34
+ [42
 
 
 
 ]
 Cap\'{\i }tulo 7.
 )
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png  used on input line 44.
+Package pdftex.def Info: img/logo.png  used on input line 50.
 (pdftex.def)             Requested size: 562.0881pt x 794.99362pt.
- [35] (./libro.aux
+ [43] (./libro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (./capitulo1/capitulo.aux) (./capitulo2/capitulo.aux)
 (./capitulo3/capitulo.aux) (./capitulo4/capitulo.aux) (./capitulo5/capitulo.aux
 ) (./capitulo6/capitulo.aux) (./capitulo7/capitulo.aux)) ) 
 Here is how much of TeX's memory you used:
- 4351 strings out of 492982
- 60133 string characters out of 6134896
- 138879 words of memory out of 5000000
- 7807 multiletter control sequences out of 15000+600000
+ 4509 strings out of 492982
+ 62598 string characters out of 6134896
+ 140975 words of memory out of 5000000
+ 7951 multiletter control sequences out of 15000+600000
  10113 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,41p,1151b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,43p,1151b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on libro.pdf (35 pages, 305480 bytes).
+Output written on libro.pdf (43 pages, 526683 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
