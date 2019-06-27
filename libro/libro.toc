@@ -33,13 +33,30 @@
 \contentsline {subsection}{\numberline {3.4.5}Sistema}{24}
 \contentsline {chapter}{\numberline {4}Planificaci\'on del Proyecto de Software}{27}
 \contentsline {section}{\numberline {4.1}Alcances Proyecto de Software}{27}
-\contentsline {section}{\numberline {4.2}Objetivos Proyecto de Software}{27}
-\contentsline {section}{\numberline {4.3}Metodolog\'ia Proyecto de Software}{27}
-\contentsline {section}{\numberline {4.4}Determinaci\'on de Recursos del Proyecto de Software}{28}
-\contentsline {subsection}{\numberline {4.4.1}Recursos Humanos}{28}
-\contentsline {subsection}{\numberline {4.4.2}Recursos Tecnologicos}{28}
-\contentsline {subsection}{\numberline {4.4.3}Recursos Financieros}{29}
-\contentsline {section}{\numberline {4.5}Cronograma de Actividades}{29}
-\contentsline {chapter}{\numberline {5}Dise\IeC {\~n}o del Proyecto de Software}{31}
-\contentsline {chapter}{\numberline {6}Desarrollo del Proyecto de Software}{33}
-\contentsline {chapter}{\numberline {7}Propuesta de Plan de Mejoramiento del Software}{35}
+\contentsline {section}{\numberline {4.2}Objetivos Proyecto de Software}{28}
+\contentsline {section}{\numberline {4.3}Metodolog\'ia Proyecto de Software}{28}
+\contentsline {section}{\numberline {4.4}Determinaci\'on de Recursos del Proyecto de Software}{29}
+\contentsline {subsection}{\numberline {4.4.1}Recursos Humanos}{29}
+\contentsline {subsection}{\numberline {4.4.2}Recursos Tecnologicos}{29}
+\contentsline {subsection}{\numberline {4.4.3}Recursos Financieros}{30}
+\contentsline {section}{\numberline {4.5}Cronograma de Actividades}{31}
+\contentsline {chapter}{\numberline {5}Dise\IeC {\~n}o del Proyecto de Software}{33}
+\contentsline {section}{\numberline {5.1}CIM: Modelo Independiente de la Computaci\'on}{33}
+\contentsline {subsection}{\numberline {5.1.1}Modelo de Negocio (Contexto)}{33}
+\contentsline {subsection}{\numberline {5.1.2}Descripci\IeC {\'o}n de Actores}{34}
+\contentsline {subsection}{\numberline {5.1.3}Diagrama de Casos de Uso}{34}
+\contentsline {section}{\numberline {5.2}PIM: Modelo Independiente de la Plataforma}{35}
+\contentsline {subsection}{\numberline {5.2.1}Diagramas Estructurales}{35}
+\contentsline {subsubsection}{Diagrama de Clases}{35}
+\contentsline {subsection}{\numberline {5.2.2} Diagramas de Comportamiento}{35}
+\contentsline {subsubsection}{ Diagrama de Estados}{35}
+\contentsline {subsubsection}{ Diagrama de Actividades}{36}
+\contentsline {subsection}{\numberline {5.2.3} Diagramas de Interacci\IeC {\'o}n}{37}
+\contentsline {subsubsection}{ Diagrama de Secuencia}{37}
+\contentsline {subsubsection}{ Diagrama de Colaboraci\IeC {\'o}n}{37}
+\contentsline {subsection}{\numberline {5.2.4} Diagramas de Implementaci\IeC {\'o}n}{38}
+\contentsline {subsubsection}{ Diagrama de Componentes}{38}
+\contentsline {subsubsection}{Diagrama de Despliegue}{38}
+\contentsline {section}{\numberline {5.3}PSM: Modelo Espec\IeC {\'\i }fico de Plataforma}{38}
+\contentsline {chapter}{\numberline {6}Desarrollo del Proyecto de Software}{41}
+\contentsline {chapter}{\numberline {7}Propuesta de Plan de Mejoramiento del Software}{43}
